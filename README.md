@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Este projeto tem como objetivo exercitar os conceitos de **herança**, **polimorfismo**, **encapsulamento** e **boas práticas de programação** orientada a objetos, simulando um sistema de batalha entre personagens de um jogo fictício chamado **Walking in Crap**.
+Este projeto tem como objetivo exercitar os conceitos de **herança**, **encapsulamento** e **boas práticas de programação** orientada a objetos, simulando um sistema de batalha entre personagens de um jogo fictício chamado **Walking in Crap**.
 
 ---
 
